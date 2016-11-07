@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/UIAI.iml" filepath="$PROJECT_DIR$/UIAI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.ktronindustries.data/com.ktronindustries.data.iml" filepath="$PROJECT_DIR$/com.ktronindustries.data/com.ktronindustries.data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.ktronindustries.model/com.ktronindustries.model.iml" filepath="$PROJECT_DIR$/com.ktronindustries.model/com.ktronindustries.model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.ktronindustries.type/com.ktronindustries.type.iml" filepath="$PROJECT_DIR$/com.ktronindustries.type/com.ktronindustries.type.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.ktronindustries.utility/com.ktronindustries.utility.iml" filepath="$PROJECT_DIR$/com.ktronindustries.utility/com.ktronindustries.utility.iml" />
+    </modules>
+  </component>
+</project>

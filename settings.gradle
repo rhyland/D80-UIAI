@@ -1,0 +1,5 @@
+include ':app'
+include ':com.ktronindustries.utility'
+include ':com.ktronindustries.type'
+include ':com.ktronindustries.model'
+include ':com.ktronindustries.data'
